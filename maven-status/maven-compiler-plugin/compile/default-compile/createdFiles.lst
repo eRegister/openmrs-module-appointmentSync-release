@@ -1,0 +1,2 @@
+org/openmrs/module/appointmentsync/extension/html/AdminList.class
+org/openmrs/module/appointmentsync/web/controller/AppointmentSyncController.class
